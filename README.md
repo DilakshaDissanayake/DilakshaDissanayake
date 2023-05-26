@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **netbeans,android studio,php,js**
 
-- 👯 I’m have complete I have completed inventory management system(Standalone) **CSJ Agro product and Services**
+- 👯 Have I completed inventory management system(Standalone) **CSJ Agro product and Services**
 
 - 💬 Ask me about **c++,vb,java,html,sql**
 
