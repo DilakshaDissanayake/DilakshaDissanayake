@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **netbeans,android studio,php,js**
 
--👯 Cyber security and ethical hacker 
+  -👯 Cyber security and ethical hacker 
 
 - 👯 Have I completed inventory management system(Standalone) **CSJ Agro product and Services**
 
