@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi I'm Dilaksha Haritha Dissnayake</h1>
+<h1 align="center">Hi I'm Yashmi shanali dissanayake</h1>
 <h3 align="center">student in mobile app and software engineer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshadissanayake" /> </p>
 <img align = "right" alt= "coding men" width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
