@@ -1,33 +1,113 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi I'm Dilaksha Haritha dissanayake</h1>
-<h3 align="center">student in mobile app and software engineer from Sri Lanka</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshadissanayake" /> </p>
-<img align = "right" alt= "coding men" width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-- currently develop mobile application **H____ Travel Location**
+<h1 align="center">🚀 Hi, I'm Dilaksha Haritha Dissanayake 🚀</h1>
+<h3 align="center">🔹 Associate Software Engineer | Mobile App Developer | Flutter & Laravel Enthusiast 🔹</h3>
 
-- 🌱 I’m currently learning **netbeans,android studio,php,js**
-
-  -👯 Cyber security and ethical hacker 
-
-- 👯 Have I completed inventory management system(Standalone) **CSJ Agro product and Services**
-
-- 💬 Ask me about **c++,vb,java,html,sql**
-
-- 📫 How to reach me **dilakshadissanayake01@gmail.com**
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dilaksha-dissanayaka-3965b7230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilaksha-dissanayaka-3965b7230/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21936639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21936639" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/dilakshadissnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/dilakshadissnayake" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshadissanayake" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilakshadissanayake&show_icons=true&locale=en" alt="dilakshadissanayake" /></p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilakshadissanayake&" alt="dilakshadissanayake" /></p>
+## 🚀 About Me
+I am a passionate and detail-oriented **Associate Software Engineer** with a strong focus on **Mobile App Development** using **Flutter** and **Laravel**. I thrive on solving complex problems and building scalable, user-friendly applications. My journey in tech is driven by a relentless curiosity and a desire to create impactful solutions.
+
+- 🔭 Currently building **[Medilink](https://github.com/dilakshadissanayake/Medilink)** - A Doctor's Reservation App (Flutter & Laravel).
+- 🌱 Exploring **Flutter Animations**, **Advanced State Management**, and **UI/UX Design**.
+- 🛡️ Passionate about **Cybersecurity** and **Ethical Hacking**.
+- 📌 Completed **[Inventory Management System](https://github.com/dilakshadissanayake/Inventory-Management-System)** for **CSJ Agro Products & Services**.
+- 💬 Ask me about **Java, C++, SQL, PHP, and Web Development**.
+- 📫 Reach me at **dilakshadissanayake01@gmail.com**.
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/dilaksha-dissanayaka-3965b7230/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/21936639" target="blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://web.facebook.com/dilakshadissnayake" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://medium.com/@dilakshadissanayake01" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,java,android,mysql,cpp,python,bootstrap,git,aws" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilakshadissanayake&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilakshadissanayake&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🎯 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshadissanayake&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dilakshadissanayake&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 Projects Showcase
+<p align="center">
+  <a href="https://github.com/dilakshadissanayake/Medilink" target="blank">
+    <img src="https://img.shields.io/badge/Medilink-Repository-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Medilink Repository" />
+  </a>
+  <a href="https://github.com/dilakshadissanayake/Inventory-Management-System" target="blank">
+    <img src="https://img.shields.io/badge/Inventory%20Management%20System-Repository-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Inventory Management System Repository" />
+  </a>
+</p>
+
+---
+
+## 🎨 UI/UX Portfolio
+<p align="center">
+  <a href="https://dribbble.com/dilakshadissanayake" target="blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+  <a href="https://www.behance.net/dilakshadissanayake" target="blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
+
+---
+
+## 🎯 Goals for 2024
+- 🌱 Master **Flutter Animations & Advanced State Management**.
+- 🛡️ Obtain **Certified Ethical Hacker (CEH) Certification**.
+- 🚀 Launch **Medilink** on Google Play & App Store.
+- 📚 Contribute to **Open Source Projects**.
+- 🎨 Enhance my **UI/UX Design Skills** and create stunning interfaces.
+
+---
+
+🚀 **Always learning, always building! Let's connect and create amazing things together.**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Dilaksha-FF6F61?style=for-the-badge" alt="Made with love by Dilaksha" />
+</p>
