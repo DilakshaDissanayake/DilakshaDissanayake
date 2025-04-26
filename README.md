@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I am a passionate and detail-oriented **Associate Software Engineer** with a strong focus on **Mobile App Development** using **Flutter** and **Laravel**. I thrive on solving complex problems and building scalable, user-friendly applications. My journey in tech is driven by a relentless curiosity and a desire to create impactful solutions.
 
-- 🔭 Currently building **[Medilink](https://github.com/dilakshadissanayake/Medilink)** - A Doctor's Reservation App (Flutter & Laravel).
+- 📫 contribute  at **pub.dev**.
 - 🌱 Exploring **Flutter Animations**, **Advanced State Management**, and **UI/UX Design**.
 - 🛡️ Passionate about **Cybersecurity** and **Ethical Hacking**.
 - 📌 Completed **[Inventory Management System](https://github.com/dilakshadissanayake/Inventory-Management-System)** for **CSJ Agro Products & Services**.
