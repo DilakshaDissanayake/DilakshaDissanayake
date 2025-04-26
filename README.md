@@ -1,113 +1,80 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilaksha+Haritha+Dissanayake;Associate+Software+Engineer;Flutter+%7C+Laravel+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner" alt="Typing Animation" />
+</div>
 
-<h1 align="center">🚀 Hi, I'm Dilaksha Haritha Dissanayake 🚀</h1>
-<h3 align="center">🔹 Associate Software Engineer | Mobile App Developer | Flutter & Laravel Enthusiast 🔹</h3>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilakshadissanayake" />
-</p>
+<!-- 3D Profile View -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilakshadissanayake&theme=github_dark" width="90%">
+</div>
 
----
+<!-- Animated Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,java,kotlin,androidstudio,py,cpp,git,github,aws,mysql,sqlite,firebase,figma,ps&perline=8" alt="Tech Stack">
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!-- GitHub Stats Grid -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilakshadissanayake&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilakshadissanayake&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshadissanayake&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=dilakshadissanayake&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="48%">
+</div>
 
-## 🚀 About Me
-I am a passionate and detail-oriented **Associate Software Engineer** with a strong focus on **Mobile App Development** using **Flutter** and **Laravel**. I thrive on solving complex problems and building scalable, user-friendly applications. My journey in tech is driven by a relentless curiosity and a desire to create impactful solutions.
-
-- 📫 contribute  at **pub.dev**.
-- 🌱 Exploring **Flutter Animations**, **Advanced State Management**, and **UI/UX Design**.
-- 🛡️ Passionate about **Cybersecurity** and **Ethical Hacking**.
-- 📌 Completed **[Inventory Management System](https://github.com/dilakshadissanayake/Inventory-Management-System)** for **CSJ Agro Products & Services**.
-- 💬 Ask me about **Java, C++, SQL, PHP, and Web Development**.
-- 📫 Reach me at **dilakshadissanayake01@gmail.com**.
-
----
-
-## 🌍 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/dilaksha-dissanayaka-3965b7230/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<!-- Project Showcase -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/dilakshadissanayake/Medilink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilakshadissanayake&repo=Medilink&theme=dark&show_owner=true" width="45%">
   </a>
-  <a href="https://stackoverflow.com/users/21936639" target="blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://github.com/dilakshadissanayake/Inventory-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilakshadissanayake&repo=Inventory-Management-System&theme=dark&show_owner=true" width="45%">
   </a>
-  <a href="https://web.facebook.com/dilakshadissnayake" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</div>
+
+<!-- Activity Graph -->
+<h2 align="center">🔥 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilakshadissanayake&theme=github-dark&hide_border=true&area=true" width="90%">
+</div>
+
+<!-- Social Badges -->
+<h2 align="center">🌍 Connect With Me</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/dilaksha-dissanayaka-3965b7230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://medium.com/@dilakshadissanayake01" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="mailto:dilakshadissanayake01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,java,android,mysql,cpp,python,bootstrap,git,aws" alt="Tech Stack" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilakshadissanayake&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilakshadissanayake&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🎯 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilakshadissanayake&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilakshadissanayake&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🚀 Projects Showcase
-<p align="center">
-  <a href="https://github.com/dilakshadissanayake/Medilink" target="blank">
-    <img src="https://img.shields.io/badge/Medilink-Repository-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Medilink Repository" />
+  <a href="https://medium.com/@dilakshadissanayake01">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://github.com/dilakshadissanayake/Inventory-Management-System" target="blank">
-    <img src="https://img.shields.io/badge/Inventory%20Management%20System-Repository-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Inventory Management System Repository" />
+  <a href="https://stackoverflow.com/users/21936639">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
-</p>
+</div>
 
----
+<!-- Spotify Playing -->
+<h2 align="center">🎵 Currently Coding To</h2>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="50%">
+</div>
 
-## 🎨 UI/UX Portfolio
-<p align="center">
-  <a href="https://dribbble.com/dilakshadissanayake" target="blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>
-  <a href="https://www.behance.net/dilakshadissanayake" target="blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-</p>
+<!-- Snake Animation -->
+<h2 align="center">🐍 GitHub Snake</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dilakshadissanayake/dilakshadissanayake/output/github-contribution-grid-snake.svg" width="90%">
+</div>
 
----
-
-## 🎯 Goals for 2024
-- 🌱 Master **Flutter Animations & Advanced State Management**.
-- 🛡️ Obtain **Certified Ethical Hacker (CEH) Certification**.
-- 🚀 Launch **Medilink** on Google Play & App Store.
-- 📚 Contribute to **Open Source Projects**.
-- 🎨 Enhance my **UI/UX Design Skills** and create stunning interfaces.
-
----
-
-🚀 **Always learning, always building! Let's connect and create amazing things together.**
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Dilaksha-FF6F61?style=for-the-badge" alt="Made with love by Dilaksha" />
-</p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <p>Made with ❤️ using Markdown</p>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
