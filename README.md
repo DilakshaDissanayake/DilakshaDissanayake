@@ -23,17 +23,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dilakshadissanayake&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="48%">
 </div>
 
-<!-- Project Showcase -->
-<h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/dilakshadissanayake/Medilink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilakshadissanayake&repo=Medilink&theme=dark&show_owner=true" width="45%">
-  </a>
-  <a href="https://github.com/dilakshadissanayake/Inventory-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilakshadissanayake&repo=Inventory-Management-System&theme=dark&show_owner=true" width="45%">
-  </a>
-</div>
-
 <!-- Activity Graph -->
 <h2 align="center">🔥 Contribution Graph</h2>
 <div align="center">
