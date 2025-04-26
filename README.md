@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilaksha+Haritha+Dissanayake;Associate+Software+Engineer;Flutter+%7C+Laravel+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner" alt="Typing Animation" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
-
 <!-- 3D Profile View -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilakshadissanayake&theme=github_dark" width="90%">
@@ -52,29 +49,15 @@
   <a href="mailto:dilakshadissanayake01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://medium.com/@dilakshadissanayake01">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
   <a href="https://stackoverflow.com/users/21936639">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
 </div>
 
-<!-- Spotify Playing -->
-<h2 align="center">🎵 Currently Coding To</h2>
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="50%">
-</div>
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 GitHub Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dilakshadissanayake/dilakshadissanayake/output/github-contribution-grid-snake.svg" width="90%">
-</div>
 
 <!-- Footer -->
 <div align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=dilakshadissanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  <p>Made with ❤️ using Markdown</p>
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
