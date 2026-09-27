@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#8957E5"/></linearGradient></defs>
+<rect width="1200" height="260" rx="24" fill="#0D1117"/>
+<path d="M0 205 C220 150 330 245 560 190 S900 135 1200 195 V260 H0Z" fill="url(#g)" opacity=".9"/>
+<circle cx="1050" cy="55" r="90" fill="#58A6FF" opacity=".08"/><circle cx="1120" cy="120" r="120" fill="#8957E5" opacity=".08"/>
+<text x="600" y="95" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="42" font-weight="700">Dilaksha Haritha Dissanayake</text>
+<text x="600" y="137" text-anchor="middle" fill="#58A6FF" font-family="Arial,sans-serif" font-size="20" font-weight="600">Associate Software Engineer | Full-Stack Mobile Developer</text>
+<text x="600" y="168" text-anchor="middle" fill="#D0D7DE" font-family="Arial,sans-serif" font-size="16">Flutter • Dart • Laravel • REST APIs • Firebase</text>
+</svg>
