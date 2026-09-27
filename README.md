@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8957E5&height=220&section=header&text=Dilaksha%20Haritha%20Dissanayake&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20Mobile%20Developer%20(Flutter%20%26%20Laravel)&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="./assets/profile-header.svg" width="100%" alt="Dilaksha Haritha Dissanayake — Associate Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Flutter+%26+Dart+Mobile+Developer;Laravel+%2B+RESTful+API+Engineer;Founder+%40+Velocity+Stack+Solution;Cybersecurity+%26+Ethical+Hacking+Diploma" alt="Typing SVG"/>
+<img src="./assets/typing.svg" width="90%" alt="Flutter and Laravel developer"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DilakshaDissanayake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="47%"/>
+
 
 - 🚀 **Associate Software Engineer (Full-Stack Mobile Developer)** @ **Genioux Pvt Ltd**, World Trade Centre, Sri Lanka *(Dec 2024 – Present)*
 - 📱 2+ years building cross-platform apps with **Flutter** on the frontend and **Laravel** on the backend
@@ -47,7 +47,7 @@ cross-functional UI/UX teams end to end — from database to client screen.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,java,kotlin,androidstudio,py,cpp,git,github,githubactions,aws,mysql,sqlite,firebase,figma,vscode,postman&perline=9" alt="Tech Stack"/>
+<img src="./assets/tech-stack.svg" width="100%" alt="Core technologies"/>
 
 <br/><br/>
 
@@ -89,19 +89,18 @@ cross-functional UI/UX teams end to end — from database to client screen.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilakshaDissanayake&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilakshaDissanayake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilakshaDissanayake&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilakshaDissanayake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DilakshaDissanayake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="90%"/>
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DilakshaDissanayake&theme=tokyonight&no-frame=true&no-bg=true&column=4)
 
 ## 🔥 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilakshaDissanayake&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="90%"/>
-</div>
+GitHub’s native contribution graph is shown on the profile page above this README; the external activity graph was removed to avoid third-party rendering failures.
 
 ## 🤝 Let's Connect
 
@@ -113,6 +112,6 @@ Open to discussing mobile development, backend architecture, or new project idea
 
 <img src="https://komarev.com/ghpvc/?username=DilakshaDissanayake&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:58A6FF&height=120&section=footer" width="100%"/>
+<img src="./assets/profile-footer.svg" width="100%" alt="Thanks for visiting my profile"/>
 
 </div>
